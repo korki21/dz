@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: green;
+margin: 0;
+padding: 0;
+}
+h1 {
+color: #333;
+text-align: center;
+}
+p {
+color: #white;
+line-height: 1,6;
+margin: 10px 20px;
+}
+button {
+background-color: red;
+color: wheat;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+button:hover {
+background-color: #p112;
+}
+.qw {
+color: red;
+text-align: center;
+}
+#wq {
+color: white;
+text-align: center;
+}
